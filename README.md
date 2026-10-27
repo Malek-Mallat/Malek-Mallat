@@ -20,7 +20,6 @@
 - **[mlops-cours-2026](https://github.com/Malek-Mallat/mlops-cours-2026)** — MLOps labs and a credit-scoring mini-project (model lifecycle, automation). _Python · Shell_
 
 ## 🌐 Web & Apps
-- **[Gymdashboard](https://github.com/Malek-Mallat/Gymdashbaord)** — Gym management platform with AI integration. _TypeScript_
 - **[Compte_flow_v2](https://github.com/Malek-Mallat/Compte_flow_v2)** — Accounting / finance flow application. _TypeScript_
 
 ---
