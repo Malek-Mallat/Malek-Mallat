@@ -14,7 +14,7 @@
 ## 🤖 Machine Learning & AI
 - **[BreastCancerPrediction](https://github.com/Malek-Mallat/BreastCancerPrediction)** — Web app predicting whether a tumor is benign or malignant from clinical features. _Python · scikit-learn_
 - **[SentimentAnalysis](https://github.com/Malek-Mallat/SentimentAnalysis)** — Real-time sentiment analysis of text and reviews using a Recurrent Neural Network (LSTM). _Deep Learning · NLP_
-- **[ML-OLAP-turnover](https://github.com/Malek-Mallat/ML-OLAP-turnover)** — Research project: integrating Machine Learning into OLAP cubes to predict employee turnover. _Python · SSAS_
+
 
 ## ⚙️ MLOps
 - **[mlops-cours-2026](https://github.com/Malek-Mallat/mlops-cours-2026)** — MLOps labs and a credit-scoring mini-project (model lifecycle, automation). _Python · Shell_
