@@ -20,7 +20,7 @@
 - **[mlops-cours-2026](https://github.com/Malek-Mallat/mlops-cours-2026)** — MLOps labs and a credit-scoring mini-project (model lifecycle, automation). _Python · Shell_
 
 ## 🌐 Web & Apps
-- **[Compte_flow_v2](https://github.com/Malek-Mallat/Compte_flow_v2)** — Accounting / finance flow application. _TypeScript_
+- **[Compte_flow_v2](https://github.com/Malek-Mallat/Compte_flow_v2)** — Turns scanned invoices (image/PDF) into balanced accounting entries via OCR (Gemini Vision), producing import-ready purchase & sales journals as CSV — with automatic third-party account numbering.
 
 ---
 
